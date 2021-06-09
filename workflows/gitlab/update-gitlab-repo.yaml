@@ -1,0 +1,147 @@
+# pip install pyyaml
+cohort: 
+  - name : 'uofm-virt-cyber-pt-06-2021-u-lol' #uofm-virt-cyber-pt-06-2021-u-lol
+    week: 
+      - number : "01"
+        name   : "Cybersecurity-101" #subject
+        soln   : true #true/false
+        start  : "2021-06-07"
+        end    : "2021-06-14"
+
+      - number : "02"
+        name   : "GRC" #subject
+        soln   : true #true/false
+        start  : "2021-06-14"
+        end    : "2021-06-21"
+
+      - number : "03"
+        name   : "Terminal-and-Bash" #subject
+        soln   : true #true/false
+        start  : "2021-06-21"
+        end    : "2021-06-28"
+
+      - number : "04"
+        name   : "Linux-SysAdmin-Fundamentals" #subject
+        soln   : true #true/false
+        start  : "2021-06-28"
+        end    : "2021-07-05"
+
+      - number : "05"
+        name   : "Archiving-and-Logging-Data" #subject
+        soln   : true #true/false
+        start  : "2021-07-05"
+        end    : "2021-07-12"
+
+      - number : "06"
+        name   : "Bash-Scripting-and-Programming" #subject
+        soln   : true #true/false
+        start  : "2021-07-12"
+        end    : "2021-07-19"
+
+      - number : "07"
+        name   : "Windows-Administration-and-Hardening" #subject
+        soln   : true #true/false
+        start  : "2021-07-19"
+        end    : "2021-07-26"
+
+      - number : "08"
+        name   : "Networking-Fundamentals" #subject
+        soln   : true #true/false
+        start  : "2021-07-26"
+        end    : "2021-08-02"
+
+      - number : "09"
+        name   : "Networking-Fundamentals-II-and-CTF-Review" #subject
+        soln   : true #true/false
+        start  : "2021-08-02"
+        end    : "2021-08-09"
+
+      - number : "10"
+        name   : "Cryptography" #subject
+        soln   : true #true/false
+        start  : "2021-08-09"
+        end    : "2021-08-16"
+
+      - number : "11"
+        name   : "Network-Security" #subject
+        soln   : true #true/false
+        start  : "2021-08-16"
+        end    : "2021-08-23"
+
+      - number : "12"
+        name   : "Cloud-Security" #subject
+        soln   : true #true/false
+        start  : "2021-08-23"
+        end    : "2021-08-30"
+
+      - number : "13"
+        name   : "Elk-Stack-Project" #subject
+        soln   : false #true/false
+        start  : "2021-08-30"
+        end    : "2021-09-06"
+
+      - number : "14"
+        name   : "Web-Development" #subject
+        soln   : true #true/false
+        start  : "2021-09-06"
+        end    : "2021-09-13"
+
+      - number : "15"
+        name   : "Web-Vulnerabilities-and-Hardening" #subject
+        soln   : true #true/false
+        start  : "2021-09-13"
+        end    : "2021-09-20"
+
+      - number : "16"
+        name   : "Penetration-Testing" #subject
+        soln   : true #true/false
+        start  : "2021-09-20"
+        end    : "2021-09-27"
+
+      - number : "17"
+        name   : "Penetration-Testing-2" #subject
+        soln   : true #true/false
+        start  : "2021-09-27"
+        end    : "2021-10-04"
+
+      - number : "18"
+        name   : "SIEMs" #subject
+        soln   : true #true/false
+        start  : "2021-10-04"
+        end    : "2021-10-11"
+
+      - number : "19"
+        name   : "SIEMs-2" #subject
+        soln   : true #true/false
+        start  : "2021-10-11"
+        end    : "2021-10-18"
+
+      - number : "20"
+        name   : "Red-vs-Blue-Project" #subject
+        soln   : false #true/false
+        start  : "2021-10-18"
+        end    : "2021-10-25"
+
+      - number : "21"
+        name   : "Digital-Forensics" #subject
+        soln   : true #true/false
+        start  : "2021-10-25"
+        end    : "2021-11-01"
+
+      - number : "22"
+        name   : "Certification-Prep" #subject
+        soln   : true #true/false
+        start  : "2021-11-01"
+        end    : "2021-11-08"
+
+      - number : "23"
+        name   : "Career-Prep" #subject
+        soln   : true #true/false
+        start  : "2021-11-08"
+        end    : "2021-11-15"
+
+      - number : "24"
+        name   : "Final-Project" #subject
+        soln   : false #true/false
+        start  : "2021-11-15"
+        end    : "2021-11-21"
